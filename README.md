@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @irf-rox
-- 👀 I’m interested in programming, gaming and fitness
-- 🌱 I’m currently learning `Front end development`
+- 👀 I’m interested in Fullstack and AI
+- 🌱 I’m currently learning `React`
 - 💞️ I’m looking to collaborate on ...
 
 <!---
