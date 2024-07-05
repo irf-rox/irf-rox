@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @irf-rox
-- 👀 I’m interested in Fullstack and AI
-- 🌱 I’m currently learning `React`
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Software Development
 
 <!---
 irf-rox/irf-rox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
